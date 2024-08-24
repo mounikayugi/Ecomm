@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import './NewCollections.css';
 import new_collection from '../Assests/new_collections'
 import Item from '../Item/Item';
