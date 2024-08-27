@@ -1,5 +1,5 @@
 .breadcrum{
-    background: linear-gradient(180deg,#e3caf1,#e9f8f94c 60%);
+    /* background: linear-gradient(180deg,#e3caf1,#e9f8f94c 60%); */
     display: flex;
     align-items: center;
     gap: 8px;
